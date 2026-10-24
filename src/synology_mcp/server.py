@@ -57,7 +57,7 @@ Logs / Audit:
 Container Manager:
 - list_nas_containers        — Docker containers on the NAS
 
-NAS: DS920+ · DSM 7.3.2 · IP 192.168.68.61
+NAS: DS920+ · IP 192.168.68.61（DSM 版本用 get_system_info 查，不寫死）
 DNS zones: chengyi.homes (active), synology.me (disabled)
 Split DNS: nas.chengyi.homes → 192.168.68.61 already configured
 """.strip()
